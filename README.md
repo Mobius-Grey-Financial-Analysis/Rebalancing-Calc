@@ -1,4 +1,4 @@
-# 25Ten Delta Capital
+# Rebalancing Calculator
 
 A dynamic position-sizing tool built with Tkinter for Python, designed to help traders allocate margin across multiple instruments according to user-defined weights and minimum lot sizes.
 
